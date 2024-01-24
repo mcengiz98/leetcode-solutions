@@ -12,6 +12,7 @@ leetcode solutions
 - [931. Minimum Falling Path Sum](00931/00931.md)
 - [1457. Pseudo-Palindromic Paths in a Binary Tree](01457/01457.md)
 - [1492. The kth Factor of n](01492/01492.md)
+- [1732. Find the Highest Altitude](01732/01732.md)
 - [3014. Minimum Number of Pushes to Type Word I](03014/03014.md)
 
 ## Simple Algorithms and Data Structures
