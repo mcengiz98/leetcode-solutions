@@ -4,6 +4,7 @@ leetcode solutions
 - [1. Two Sum](00001/00001.md)
 - [70. Climbing Stairs](00070/00070.md)
 - [169. Majority Element](00169/00169.md)
+- [198. House Robber](00198/00198.md)
 - [217. Contains Duplicate](00217/00217.md)
 - [300. Longest Increasing Subsequence](00300/00300.md)
 - [645. Set Mismatch](00645/00645.md)
