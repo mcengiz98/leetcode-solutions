@@ -4,6 +4,7 @@ leetcode solutions
 - [1. Two Sum](00001/00001.md)
 - [62. Unique Paths](00062/00062.md)
 - [70. Climbing Stairs](00070/00070.md)
+- [150. Evaluate Reverse Polish Notation](00150/00150.md)
 - [169. Majority Element](00169/00169.md)
 - [198. House Robber](00198/00198.md)
 - [217. Contains Duplicate](00217/00217.md)
