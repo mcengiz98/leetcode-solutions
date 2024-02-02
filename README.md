@@ -14,6 +14,7 @@ leetcode solutions
 - [700. Search in a Binary Search Tree](00700/00700.md)
 - [931. Minimum Falling Path Sum](00931/00931.md)
 - [1143. Longest Common Subsequence](01143/01143.md)
+- [1207. Unique Number of Occurrences](01207/01207.md)
 - [1291. Sequential Digits](01291/01291.md)
 - [1457. Pseudo-Palindromic Paths in a Binary Tree](01457/01457.md)
 - [1492. The kth Factor of n](01492/01492.md)
