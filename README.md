@@ -11,6 +11,7 @@ leetcode solutions
 - [300. Longest Increasing Subsequence](00300/00300.md)
 - [605. Can Place Flowers](00605/00605.md)
 - [645. Set Mismatch](00645/00645.md)
+- [700. Search in a Binary Search Tree](00700/00700.md)
 - [931. Minimum Falling Path Sum](00931/00931.md)
 - [1143. Longest Common Subsequence](01143/01143.md)
 - [1291. Sequential Digits](01291/01291.md)
