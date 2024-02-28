@@ -19,6 +19,7 @@ leetcode solutions
 - [1457. Pseudo-Palindromic Paths in a Binary Tree](01457/01457.md)
 - [1492. The kth Factor of n](01492/01492.md)
 - [1732. Find the Highest Altitude](01732/01732.md)
+- [2971. Find Polygon with the Largest Perimeter](02971/02971.md)
 - [3014. Minimum Number of Pushes to Type Word I](03014/03014.md)
 
 ## Simple Algorithms and Data Structures
