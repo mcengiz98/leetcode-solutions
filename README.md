@@ -9,6 +9,7 @@ leetcode solutions
 - [198. House Robber](00198/00198.md)
 - [217. Contains Duplicate](00217/00217.md)
 - [231. Power of Two](00231/00231.md)
+- [268. Missing Number](00268/00268.md)
 - [300. Longest Increasing Subsequence](00300/00300.md)
 - [605. Can Place Flowers](00605/00605.md)
 - [645. Set Mismatch](00645/00645.md)
