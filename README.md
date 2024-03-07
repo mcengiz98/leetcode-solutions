@@ -15,6 +15,7 @@ leetcode solutions
 - [605. Can Place Flowers](00605/00605.md)
 - [645. Set Mismatch](00645/00645.md)
 - [700. Search in a Binary Search Tree](00700/00700.md)
+- [876. Middle of the Linked List](00876/00876.md)
 - [931. Minimum Falling Path Sum](00931/00931.md)
 - [1143. Longest Common Subsequence](01143/01143.md)
 - [1207. Unique Number of Occurrences](01207/01207.md)
