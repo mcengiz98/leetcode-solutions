@@ -24,6 +24,7 @@ leetcode solutions
 - [1291. Sequential Digits](Solutions/01291/01291.md)
 - [1457. Pseudo-Palindromic Paths in a Binary Tree](Solutions/01457/01457.md)
 - [1492. The kth Factor of n](Solutions/01492/01492.md)
+- [1669. Merge In Between Linked Lists](Solutions/01669/01669.md)
 - [1732. Find the Highest Altitude](Solutions/01732/01732.md)
 - [2540. Minimum Common Value](Solutions/02540/02540.md)
 - [2971. Find Polygon with the Largest Perimeter](Solutions/02971/02971.md)
