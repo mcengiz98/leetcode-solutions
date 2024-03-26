@@ -2,6 +2,7 @@
 leetcode solutions 
 
 - [1. Two Sum](Solutions/00001/00001.md)
+- [41. First Missing Positive](Solutions/00041/00041.md)
 - [62. Unique Paths](Solutions/00062/00062.md)
 - [70. Climbing Stairs](Solutions/00070/00070.md)
 - [141. Linked List Cycle](Solutions/00141/00141.md)
