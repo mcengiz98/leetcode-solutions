@@ -15,6 +15,7 @@ leetcode solutions
 - [287. Find the Duplicate Number](Solutions/00287/00287.md)
 - [300. Longest Increasing Subsequence](Solutions/00300/00300.md)
 - [349. Intersection of Two Arrays](Solutions/00349/00349.md)
+- [350. Intersection of Two Arrays II](Solutions/00350/00350.md)
 - [448. Find All Numbers Disappeared in an Array](Solutions/00448/00448.md)
 - [605. Can Place Flowers](Solutions/00605/00605.md)
 - [645. Set Mismatch](Solutions/00645/00645.md)
