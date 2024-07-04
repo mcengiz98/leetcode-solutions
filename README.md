@@ -32,6 +32,7 @@ leetcode solutions
 - [1550. Three Consecutive Odds](Solutions/01550/01550.md)
 - [1669. Merge In Between Linked Lists](Solutions/01669/01669.md)
 - [1732. Find the Highest Altitude](Solutions/01732/01732.md)
+- [2181. Merge Nodes in Between Zeros](Solutions/02181/02181.md)
 - [2331. Evaluate Boolean Binary Tree](Solutions/02331/02331.md)
 - [2540. Minimum Common Value](Solutions/02540/02540.md)
 - [2971. Find Polygon with the Largest Perimeter](Solutions/02971/02971.md)
