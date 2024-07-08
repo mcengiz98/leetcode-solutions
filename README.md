@@ -29,6 +29,7 @@ leetcode solutions
 - [1457. Pseudo-Palindromic Paths in a Binary Tree](Solutions/01457/01457.md)
 - [1492. The kth Factor of n](Solutions/01492/01492.md)
 - [1509. Minimum Difference Between Largest and Smallest Value in Three Moves](Solutions/01509/01509.md)
+- [1518. Water Bottles](Solutions/01518/01518.md)
 - [1550. Three Consecutive Odds](Solutions/01550/01550.md)
 - [1669. Merge In Between Linked Lists](Solutions/01669/01669.md)
 - [1732. Find the Highest Altitude](Solutions/01732/01732.md)
