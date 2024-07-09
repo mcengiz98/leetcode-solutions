@@ -32,6 +32,7 @@ leetcode solutions
 - [1518. Water Bottles](Solutions/01518/01518.md)
 - [1550. Three Consecutive Odds](Solutions/01550/01550.md)
 - [1669. Merge In Between Linked Lists](Solutions/01669/01669.md)
+- [1701. Average Waiting Time](Solutions/01701/01701.md)
 - [1732. Find the Highest Altitude](Solutions/01732/01732.md)
 - [2181. Merge Nodes in Between Zeros](Solutions/02181/02181.md)
 - [2331. Evaluate Boolean Binary Tree](Solutions/02331/02331.md)
