@@ -31,6 +31,7 @@ leetcode solutions
 - [1509. Minimum Difference Between Largest and Smallest Value in Three Moves](Solutions/01509/01509.md)
 - [1518. Water Bottles](Solutions/01518/01518.md)
 - [1550. Three Consecutive Odds](Solutions/01550/01550.md)
+- [1598. Crawler Log Folder](Solutions/01598/01598.md)
 - [1669. Merge In Between Linked Lists](Solutions/01669/01669.md)
 - [1701. Average Waiting Time](Solutions/01701/01701.md)
 - [1732. Find the Highest Altitude](Solutions/01732/01732.md)
